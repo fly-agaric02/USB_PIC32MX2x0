@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [pic32mx_usb.prjpcb]
+   Generated File[pic32mx_usb.TXT]
+   Generated File[pic32mx_usb.LDP]
+   Generated File[pic32mx_usb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:11:04 On 2022/05/15
